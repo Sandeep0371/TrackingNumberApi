@@ -1,1 +1,2 @@
-com\example\tracking\TrackingNumberApiApplicationTest.class
+com\example\tracking\controller\TrackingNumberControllerTest.class
+com\example\tracking\service\TrackingNumberServiceTest.class
