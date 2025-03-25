@@ -43,7 +43,7 @@ GET /next-tracking-number?origin_country_id=MY&destination_country_id=ID&weight=
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/scalable-tracking-api.git
+   git clone https://github.com/Sandeep0371/TrackingNumberApi.git)/scalable-tracking-api.git
    cd scalable-tracking-api
    ```
 2. Build the project:
