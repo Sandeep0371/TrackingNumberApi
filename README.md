@@ -77,5 +77,5 @@ Create app.yaml file
 gcloud app deploy
 gcloud app browse
 
-## Deployed application url:
-https://tracking-number-generator-api.wm.r.appspot.com/
+
+
