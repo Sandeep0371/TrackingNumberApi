@@ -1,5 +1,5 @@
 # Use an official Maven image as the base image
-FROM maven:3.8.4-openjdk-17-oracle AS build
+FROM maven:3.8.4-openjdk-17.0.1-slim AS build
 # Set the working directory in the container
 WORKDIR C:\Users\sandy\Downloads\tracking-number-api
 # Copy the pom.xml and the project files to the container
